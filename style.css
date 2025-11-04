@@ -67,7 +67,7 @@ nav a {
 
 nav a:hover,
 nav a.active {
-  color: #b74b4b;
+  color: var(--primary);
   border-bottom: 3px solid var(--primary);
 }
 
